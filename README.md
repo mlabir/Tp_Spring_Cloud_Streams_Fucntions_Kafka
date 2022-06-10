@@ -20,9 +20,9 @@ Kafka fonctionne avec ZooKeeper, une plateforme permettant de créer ou mainteni
 
 ### Test:
 
-kafka-consumer permet de consom un topic et visualiser les donner qui consommer par un topic
+*kafka-consumer* permet de consom un topic et visualiser les donner qui consommer par un topic
 
-kafka-produser envoyer des message vers un topic kafka 
+*kafka-produser* envoyer des message vers un topic kafka 
 
 ### C) Lancement de Kafka-Consumer et kafka-Producer::
 
