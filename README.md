@@ -83,4 +83,16 @@ Creation d'Une application (in out) dont laquelle elle recoie un enregitrement e
 
 On va Faire Stream processing (on a pas besoin de traitement distribuée) et avoir comment utiliser kafka stream,
 on va creer une fonction qui reçoie on input le clé(nom de la page) et la valeur (nombre de fois a été visiter)
-l'avantage on peut léutiliser dans 
+
+Dans cette partie on va calculer le nombre de visite pour chaque client pendant 5 seconde:
+
+### Test:
+
+![image](https://user-images.githubusercontent.com/102171913/173124590-d9154f06-6192-4a0c-bbd6-118dc30438cc.png)
+
+![image](https://user-images.githubusercontent.com/102171913/173124651-5f2e6bfd-b373-4e99-9a4d-60455486878f.png)
+
+### Visualisation html:
+
+![image](https://user-images.githubusercontent.com/102171913/173124685-7f8c0839-d32f-4e38-bdba-6b017a60655f.png)
+
