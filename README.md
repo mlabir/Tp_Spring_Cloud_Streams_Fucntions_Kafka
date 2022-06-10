@@ -78,3 +78,9 @@ Creation d'Une application (in out) dont laquelle elle recoie un enregitrement e
 ### Test 2 : input R2 et output R3
 
 ![image](https://user-images.githubusercontent.com/102171913/173119192-3b5d9133-a0f9-4b14-8a55-023ec4480ecb.png)
+
+## Partie5:
+
+On va Faire Stream processing (on a pas besoin de traitement distribuée) et avoir comment utiliser kafka stream,
+on va creer une fonction qui reçoie on input le clé(nom de la page) et la valeur (nombre de fois a été visiter)
+l'avantage on peut léutiliser dans 
